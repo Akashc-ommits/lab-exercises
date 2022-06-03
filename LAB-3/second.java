@@ -11,13 +11,13 @@ abstract class Student implements MAD {
     @Override
     public void learnCoding() {
         System.out.println(
-                "Hi");
+                " Hi ");
     }
 
     @Override
     public void learnProgrammingLanguage() {
         System.out.println(
-                "JUET");
+                " JUET ");
     }
 }
 
@@ -25,7 +25,7 @@ class Mobile extends Student {
     @Override
     public void contribute() {
         System.out.println(
-                "MAD LAB");
+                " MAD LAB ");
     }
 }
 
