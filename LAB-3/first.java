@@ -44,7 +44,7 @@ class Kauravs extends Bharatvanshi
 
     {
 
-        System.out.println(" kindness = " + kindness);
+        System.out.println(" kindness  =  " + kindness);
 
     }
 
